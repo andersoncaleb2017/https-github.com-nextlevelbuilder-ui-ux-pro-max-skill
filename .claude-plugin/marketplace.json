@@ -33,6 +33,22 @@
         "components"
       ],
       "category": "design"
+    },
+    {
+      "name": "restoration-search",
+      "source": "./plugins/restoration-search",
+      "description": "Search, fix and track how The Restoration Hotel (therestorationhotel.com) shows up in web search.",
+      "version": "0.1.0",
+      "author": {
+        "name": "andersoncaleb2017"
+      },
+      "keywords": [
+        "search",
+        "seo",
+        "hotel",
+        "rank-tracking"
+      ],
+      "category": "productivity"
     }
   ]
 }
